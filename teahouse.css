@@ -1,0 +1,135 @@
+body
+{
+	font-family: "trebuchet ms", verdana, sans-serif;
+	font-size: 1em;
+	color: #000000;
+	background-color: #595407;
+}
+
+#wrapper{
+    margin: 0 auto;
+    width: 960px;
+    text-align: left;
+    color: #000;
+}
+
+#heading
+{
+	width: 100%;
+	height: 240px;
+	border:1px solid #2a141e;
+	background: #ecc59f url('images/autumn-leaves-on-wood.jpg');
+	border-bottom: 0px;
+}
+
+a:link
+{
+	color: #59142d;
+	text-decoration: none;
+}
+
+a:active
+{
+	color: #000;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #7e2d11;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #595407;
+	text-decoration: none;
+}
+
+#header
+{
+	margin: 0px auto;
+	width: 100%;
+}
+
+#menu
+{
+	width: 98%;
+	padding: 5px 10px;
+	border:1px solid #9F9F71;
+	margin-bottom: 10px;
+	text-align: right;
+	background: #ffefdf;
+}
+
+#container
+{
+	width: 100%;
+	border: 1px solid #9F9F71;
+	background: #ffefdf;
+}
+
+#content
+{
+	width: 102%;
+	height: 600px;
+	line-height: 150%;
+}
+
+#content h2
+{
+	border-bottom: 2px dashed #808080;
+	font-family: arial;
+	font-weight: 100;
+	padding: 10px 0px;
+	letter-spacing: 8px;
+	font-size: 2.5em;
+	width: 98%;
+}
+
+
+#textpadding
+{
+	padding: 10px 40px;
+}
+
+#footer
+{
+	width: 98%;
+	padding: 5px 10px;
+	border:1px solid #9F9F71;
+	margin-top: 10px;
+	text-align: right;
+	background: #ffefdf;
+}
+
+.floatleft{
+	float: left;
+	margin: 0px 15px 15px 0px;
+}
+
+table{
+	width: 98%;
+	margin: 0 auto;
+	border-spacing: 20px 0px;
+	table-layout: fixed;
+}
+
+td{
+	text-align: right;
+}
+
+blockquote { 
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 50px;
+    margin-right: 5px;
+	color: #59142d;
+}
+
+iframe{
+	width: 47%;
+	margin: 0 auto;
+	height: 250px;
+}
